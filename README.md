@@ -1,6 +1,8 @@
 # UWindsor Computer Science Society Discord Server
 
-Instructions on how to join the UWindsor CSS Discord server
+This page used to contain information about the Discord server while our domain was down, but now it's just a redirect to the actual site.
+
+<!-- Instructions on how to join the UWindsor CSS Discord server
 
 ## How to Join
 
@@ -24,4 +26,4 @@ Normally, to be added to our server you would access our website via https://css
 
 ## Additional Inquiries
 
-If you have any other questions, comments, or concerns please contact us at css@uwindsor.ca and we'd be happy to help you!
+If you have any other questions, comments, or concerns please contact us at css@uwindsor.ca and we'd be happy to help you! -->
